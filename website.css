@@ -1,0 +1,105 @@
+
+body{
+    border: rgb(240, 238, 238);
+}
+.navbar{
+   background-color: rgb(5, 100, 5);
+   padding: 10px;
+  
+}
+ .navbar a{
+    
+    margin-left:  10px;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+   
+}
+
+.float-right{
+    float: right;
+}
+.button1{
+    background-color: gold;
+}
+.button2{
+    background-color: blue ;
+}
+.magin{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.border{
+    border: rgb(248, 213, 213);
+   width: 400px;
+   
+}
+.text-center{
+    text-align: center;
+    
+}
+.imge{
+    margin-left: 100px;
+}
+.display-flex{
+    display: flex;
+}
+.m1{
+    color: blue;
+}
+.padding{
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.color{
+    background-color: black;
+    padding: 5px;
+}
+.white{
+    color: white;
+}
+
+.p5{
+    padding: 30px;
+    background-color: cornflowerblue;
+}
+.loginB{
+    /* border:  blue; */
+    background-color: blue;
+
+}
+.regB{
+    /* border: rgb(25, 0, 255); */
+    background-color:yellow
+    
+}
+.justify{
+    text-align: justify;
+}
+.border1{
+     border: rgb(71, 19, 192);
+     width: 30%; 
+     padding-left: 10%;
+     
+}
+.border2{
+    border:solid rgb(65, 67, 70);
+    padding-left: 10px;
+    background-color: rgb(243, 200, 145);
+}
+.button{
+    border: solid;
+    background-color: blue;
+    color: white;
+}
+.border3{
+    background-color: rgb(243, 200, 145);
+}
+.border4{
+    color: black;
+}
+.regPadding{
+    padding: 50px;
+}
